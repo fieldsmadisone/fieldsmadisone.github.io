@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>[Your Name] – SEO Analyst & Project Manager</title>
+  <title>Madison Fields – SEO & AEO (GEO) Consultant</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta
     name="description"
-    content="Portfolio of [Your Name], an SEO analyst and project manager with an anthropology background, supporting purpose-driven and nonprofit organizations."
+    content="Portfolio of Madison Fields, SEO & AEO (GEO) Consultant and SEO & Content Manager with a background in cultural anthropology, specializing in organic growth, AI Overviews, and mission-driven organizations."
   />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -545,7 +545,7 @@
 <body>
   <div class="page">
     <header>
-      <div class="logo">[YOUR NAME]</div>
+      <div class="logo">MADISON FIELDS</div>
       <nav>
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
@@ -561,19 +561,20 @@
         <div class="hero-text">
           <div class="hero-tag">
             <span class="dot"></span>
-            <span>SEO · Project Management · Anthropology</span>
+            <span>SEO · AEO (GEO) · Content Strategy</span>
           </div>
           <h1 id="hero-heading">
-            SEO Analyst &amp; Project Manager<br />
-            with a Human-Centered Lens
+            SEO &amp; AEO (GEO) Consultant<br />
+            for human-centered, discoverable content
           </h1>
           <p class="hero-subtitle">
-            I help organizations understand how people search, think, and navigate online—then turn those insights into clear,
-            sustainable growth strategies.
+            I help brands and mission-driven teams grow organically across search and emerging answer engines, blending
+            technical SEO, AEO, and content strategy with a background in cultural anthropology.
           </p>
           <div class="hero-highlight">
-            Currently open to collaborations with <strong>nonprofits, mission-driven teams, and value-led businesses</strong>
-            looking to improve their digital visibility and communication.
+            With 5+ years in digital and content marketing, I’ve led SEO strategy across 70+ clients, from global software
+            companies to local service brands—improving visibility, engagement, and revenue through data-driven, people-first
+            experiences. :contentReference[oaicite:1]{index=1}
           </div>
           <div class="hero-actions">
             <a href="#contact" class="btn-primary">
@@ -583,9 +584,9 @@
             <a href="#work" class="btn-secondary">View selected work</a>
           </div>
           <div class="hero-badges">
-            <span>Technical &amp; on-page SEO</span>
-            <span>Research-driven content strategy</span>
-            <span>Stakeholder communication</span>
+            <span>SEO &amp; AEO (GEO) consulting</span>
+            <span>Content &amp; information architecture</span>
+            <span>AI Overviews &amp; SERP research</span>
             <span>Anthropology-informed insight</span>
           </div>
         </div>
@@ -593,30 +594,32 @@
         <aside class="hero-aside" aria-label="Profile summary">
           <div class="profile-card">
             <div class="avatar-placeholder">
-              <!-- Replace with your initials or an actual photo if coded later -->
-              <span>[Y]</span>
+              <span>MF</span>
             </div>
-            <div class="profile-name">[Your Name]</div>
-            <div class="profile-role">SEO Analyst · Project Manager · Anthropologist by training</div>
+            <div class="profile-name">Madison Fields</div>
+            <div class="profile-role">
+              SEO &amp; AEO (GEO) Consultant · SEO &amp; Content Manager
+            </div>
             <div class="profile-meta">
               <div>
-                <span class="label">Focus</span>
-                <div>SEO audits, website optimization, content strategy</div>
+                <span class="label">Based in</span>
+                <div>The Netherlands · working remotely worldwide</div>
               </div>
               <div>
-                <span class="label">I work with</span>
-                <div>Nonprofits, social enterprises, and purposeful teams</div>
+                <span class="label">Background</span>
+                <div>BA in Cultural Anthropology (Honors), Louisiana State University :contentReference[oaicite:2]{index=2}</div>
               </div>
             </div>
             <div class="availability-tag">
               <span class="availability-tag-dot"></span>
-              <span>Open to remote &amp; hybrid opportunities</span>
+              <span>Open to consulting, remote roles &amp; nonprofit collaborations</span>
             </div>
           </div>
 
           <div class="note-card">
-            With a background in anthropology, I bring qualitative research skills and cultural awareness into SEO and
-            project work—helping teams design strategies that respect real people’s contexts, needs, and constraints.
+            I specialize in translating complex SEO and AEO signals into clear, prioritized actions for teams. My experience
+            spans large client portfolios, technical audits, BOFU content, and emerging AI-driven SERP changes—always with a
+            focus on thoughtful, accessible communication. :contentReference[oaicite:3]{index=3}
           </div>
         </aside>
       </section>
@@ -626,43 +629,46 @@
         <div class="section-header">
           <div>
             <div class="section-kicker">About</div>
-            <h2 class="section-title">A bridge between data, people, and strategy</h2>
+            <h2 class="section-title">Strategic SEO rooted in research &amp; real people</h2>
           </div>
           <p class="section-subtitle">
-            Combining analytical SEO work with project management and human-centered research.
+            Bringing together anthropology, SEO, AEO, and content strategy to build sustainable organic growth.
           </p>
         </div>
 
         <div class="about-grid">
           <article class="card">
             <p>
-              I’m an SEO analyst and project manager with a background in <strong>anthropology</strong>. That means I care
-              deeply about how people actually search, read, and make decisions online—not just what the numbers say.
+              I’m an SEO &amp; AEO (GEO) Consultant and SEO &amp; Content Manager with 5+ years of experience driving organic
+              growth for agencies, SaaS, and service-based brands. I’ve managed portfolios of up to 60 clients at once,
+              balancing technical optimization, strategic content, and stakeholder communication. :contentReference[oaicite:4]{index=4}
             </p>
             <p>
-              I’ve worked on projects that range from <strong>SEO audits and content optimizations</strong> to coordinating
-              multi-stakeholder website improvements. My approach is collaborative, structured, and grounded in clear
-              communication.
+              My academic background is in cultural anthropology, which means I’m trained to look beyond keywords and think
+              about context: how people search, what they value, and how they actually move through digital experiences.
+              That lens helps me design strategies that work for both algorithms and humans.
             </p>
             <p>
-              I’m especially interested in supporting <strong>nonprofits, cultural institutions, and impact-driven
-              organizations</strong> who want to use digital channels more thoughtfully and effectively.
+              I’m especially interested in supporting nonprofits, social enterprises, and globally minded organizations that
+              care about inclusion, accessibility, and long-term impact—not just quick wins.
             </p>
           </article>
 
           <aside class="card">
-            <p><strong>What you can expect from me</strong></p>
+            <p><strong>My experience in numbers</strong></p>
             <ul style="margin-top: 6px; padding-left: 18px; font-size: 0.85rem; color: var(--muted);">
-              <li>Clear, jargon-free explanations of SEO recommendations</li>
-              <li>Structured project plans and realistic timelines</li>
-              <li>Stakeholder-friendly documentation and reporting</li>
-              <li>Empathy for users, audiences, and internal teams</li>
+              <li>5+ years in digital and content marketing</li>
+              <li>3 years leading SEO strategy as an SEO Manager</li>
+              <li>200+ high-intent service pages written and optimized</li>
+              <li>200+ SEO audits delivered for growth and performance</li>
+              <li>Average 25% MoM organic traffic growth across key projects</li>
+              <li>10+ tools mastered, including GA4, GSC, Ahrefs, SEMrush, Moz &amp; Screaming Frog</li>
             </ul>
             <div class="pill-row">
               <span>Evidence-based</span>
+              <span>Inclusive</span>
               <span>Collaborative</span>
-              <span>Curious</span>
-              <span>Ethical</span>
+              <span>Systems thinker</span>
             </div>
           </aside>
         </div>
@@ -673,43 +679,54 @@
         <div class="section-header">
           <div>
             <div class="section-kicker">Skills</div>
-            <h2 class="section-title">How I can contribute</h2>
+            <h2 class="section-title">How I create value</h2>
           </div>
         </div>
 
         <div class="skills-grid">
           <article class="card skills-card">
-            <h3>SEO &amp; Digital Strategy</h3>
+            <h3>SEO &amp; AEO (GEO)</h3>
             <ul>
-              <li>Technical SEO audits &amp; site health reviews</li>
-              <li>Keyword research &amp; search intent analysis</li>
-              <li>On-page optimization &amp; information architecture</li>
-              <li>Content performance analysis (GA4, GSC, etc.)</li>
-              <li>Recommendations tailored to internal capacity</li>
+              <li>End-to-end SEO strategy for multi-client portfolios</li>
+              <li>Technical audits &amp; site health monitoring</li>
+              <li>Keyword &amp; SERP analysis, including AI Overviews &amp; LLM-generated content impact</li>
+              <li>On-page optimization &amp; internal linking</li>
+              <li>Local &amp; GEO-focused visibility improvements</li>
             </ul>
           </article>
 
           <article class="card skills-card">
-            <h3>Project &amp; Stakeholder Management</h3>
+            <h3>Content &amp; Experience</h3>
             <ul>
-              <li>Defining scope, milestones, and priorities</li>
-              <li>Coordinating between content, dev, and leadership</li>
-              <li>Creating documentation &amp; repeatable workflows</li>
-              <li>Risk management and expectation setting</li>
-              <li>Facilitating workshops and check-ins</li>
+              <li>BOFU service page creation and optimization at scale</li>
+              <li>Content roadmaps aligned with business goals</li>
+              <li>UX collaboration for IA, navigation &amp; readability</li>
+              <li>A/B testing mindset &amp; experimentation</li>
+              <li>Inclusive, brand-aligned messaging frameworks</li>
             </ul>
           </article>
 
           <article class="card skills-card">
-            <h3>Research &amp; Anthropology</h3>
+            <h3>Analytics, Tools &amp; Communication</h3>
             <ul>
-              <li>Qualitative user research and interviews</li>
-              <li>Audience personas grounded in real behavior</li>
-              <li>Cultural/contextual analysis for content</li>
-              <li>Accessibility-minded communication</li>
-              <li>Ethical &amp; inclusive approach to data use</li>
+              <li>Google Analytics 4 (GA4) &amp; Google Search Console</li>
+              <li>Ahrefs, SEMrush, Moz, Screaming Frog &amp; Looker Studio</li>
+              <li>Excel for performance tracking &amp; reporting</li>
+              <li>Clear stakeholder reporting &amp; education</li>
+              <li>Cross-functional collaboration with dev, product &amp; content teams</li>
             </ul>
           </article>
+        </div>
+
+        <div class="card" style="margin-top:14px;">
+          <p><strong>Professional certifications</strong></p>
+          <div class="pill-row">
+            <span>Google Analytics 4 (GA4)</span>
+            <span>Moz SEO Essentials</span>
+            <span>SEMrush SEO Fundamentals &amp; International SEO</span>
+            <span>Ahrefs SEO Training Course</span>
+            <span>Excel Skills for Business</span>
+          </div>
         </div>
       </section>
 
@@ -718,38 +735,43 @@
         <div class="section-header">
           <div>
             <div class="section-kicker">Selected work</div>
-            <h2 class="section-title">Examples of what I do</h2>
+            <h2 class="section-title">Sample projects &amp; impact</h2>
           </div>
           <p class="section-subtitle">
-            A few representative projects. I’m happy to discuss details in conversation.
+            A few representative roles and outcomes. More detail available on request.
           </p>
         </div>
 
         <div class="portfolio-grid">
           <article class="card portfolio-item">
-            <h3>SEO audit &amp; roadmap for nonprofit website</h3>
-            <div class="portfolio-meta">SEO · Nonprofit · Audit &amp; strategy</div>
+            <h3>Senior SEO Consultant – Global industrial software (PTC)</h3>
+            <div class="portfolio-meta">2025 · Boston, MA (Remote) · Contractor</div>
             <p>
-              Conducted a full technical and on-page audit for a nonprofit website. Prioritized issues by impact and effort,
-              resulting in a clear, phased roadmap that internal teams could realistically implement.
+              Partnered with a global provider of industrial and digital transformation software to evaluate how AI
+              Overviews, LLM-driven results, and changing SERPs affect core product and solution pages. Led SERP and keyword
+              research, then collaborated with product and content teams to create future-proof SEO strategies for high-value
+              pages. :contentReference[oaicite:5]{index=5}
             </p>
           </article>
 
           <article class="card portfolio-item">
-            <h3>Content strategy for information-heavy organization</h3>
-            <div class="portfolio-meta">Content strategy · UX · Research</div>
+            <h3>SEO Manager – Franchise marketing (Scorpion)</h3>
+            <div class="portfolio-meta">2021–2025 · Remote</div>
             <p>
-              Used search data, user feedback, and qualitative research to reorganize key content areas, making it easier for
-              audiences to find essential information and resources.
+              Managed a 60-client portfolio generating $90K+ in monthly revenue for a leading franchise-focused digital
+              marketing company. Built and executed data-driven SEO strategies, conducted market and competitor analysis, and
+              aligned organic efforts with client positioning and growth goals, with a focus on inclusive and differentiated
+              content. :contentReference[oaicite:6]{index=6}
             </p>
           </article>
 
           <article class="card portfolio-item">
-            <h3>Project coordination for website improvements</h3>
-            <div class="portfolio-meta">Project management · Cross-team collaboration</div>
+            <h3>SEO Analyst – Automotive &amp; legal (Click Here Digital)</h3>
+            <div class="portfolio-meta">2020–2021 · Baton Rouge, LA</div>
             <p>
-              Coordinated designers, developers, and content specialists to deliver a set of SEO-driven improvements on time.
-              Ensured everyone had the context they needed and kept stakeholders aligned.
+              Led SEO for a 17-client portfolio in automotive and legal verticals at a long-standing digital agency. Campaigns
+              generated over $28,883 in monthly revenue by improving organic visibility, rankings, and lead generation through
+              targeted technical and content optimizations. :contentReference[oaicite:7]{index=7}
             </p>
           </article>
         </div>
@@ -760,40 +782,41 @@
         <div class="section-header">
           <div>
             <div class="section-kicker">How we can work together</div>
-            <h2 class="section-title">Support for teams &amp; organizations</h2>
+            <h2 class="section-title">Consulting &amp; collaboration</h2>
           </div>
         </div>
 
         <div class="services-grid">
           <article class="card services-card">
-            <h3>SEO audits &amp; recommendations</h3>
+            <h3>SEO &amp; AEO (GEO) Audits</h3>
             <p>
-              A structured review of your website’s technical setup, content, and search visibility—translated into a clear
-              action plan your team can actually implement.
+              Holistic audits that look at technical health, content performance, site architecture, and how your brand shows
+              up in both traditional search and AI-generated answer experiences. Delivered as a clear, actionable roadmap.
             </p>
           </article>
 
           <article class="card services-card">
-            <h3>Project &amp; implementation support</h3>
+            <h3>Content &amp; Conversion Strategy</h3>
             <p>
-              From prioritizing tasks to coordinating with developers and content creators, I help keep SEO and web projects
-              organized, realistic, and aligned with your goals.
+              Development of BOFU service pages, resource hubs, and content plans that meet user intent, support sales or
+              fundraising goals, and reflect your brand’s voice and values.
             </p>
           </article>
 
           <article class="card services-card">
-            <h3>Content &amp; communication strategy</h3>
+            <h3>Ongoing SEO Management</h3>
             <p>
-              Align your content with audience needs and search behavior. I combine SEO data with user insight to shape
-              messaging, structure, and editorial priorities.
+              Retainer-style support for brands that need consistent optimization, reporting, and experimentation—ideal for
+              marketing teams that want a dedicated organic growth partner.
             </p>
           </article>
 
           <article class="card services-card">
-            <h3>Support for nonprofits &amp; mission-driven teams</h3>
+            <h3>Support for nonprofits &amp; social impact teams</h3>
             <p>
-              I’m particularly interested in collaborations with nonprofits and social impact organizations. If budget is a
-              concern, I’m open to exploring flexible arrangements and scoped projects.
+              Consulting for nonprofits, NGOs, and community-focused organizations looking to clarify their information
+              architecture, improve discoverability, and make their digital presence more accessible. I’m open to scoped
+              projects and flexible engagement models.
             </p>
           </article>
         </div>
@@ -807,14 +830,14 @@
             <h2 class="section-title">Let’s start a conversation</h2>
           </div>
           <p class="section-subtitle">
-            Share a bit about your organization, your challenges, or your idea. I’ll get back to you as soon as I can.
+            Share a bit about your organization, goals, or challenges. I’ll follow up with ways we can work together.
           </p>
         </div>
 
         <div class="contact">
           <div class="card">
-            <form action="mailto:your.email@example.com" method="post" enctype="text/plain">
-              <!-- Replace the mailto: address above with your real email -->
+            <form action="mailto:fieldsmadisone@gmail.com" method="post" enctype="text/plain">
+              <!-- Replace the mailto: address above if you ever change your email -->
               <div>
                 <label for="name">Name</label>
                 <input id="name" name="name" type="text" placeholder="Your name" required />
@@ -843,21 +866,22 @@
           </div>
 
           <aside class="card" style="font-size: 0.85rem;">
-            <p><strong>Prefer a different way to connect?</strong></p>
+            <p><strong>Other ways to reach me</strong></p>
             <p style="margin-top: 6px;">
-              You can also reach me at:
-            </p>
-            <p style="margin-top: 6px;">
-              Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br />
-              LinkedIn: <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer">linkedin.com/in/your-profile</a>
+              Email: <a href="mailto:fieldsmadisone@gmail.com">fieldsmadisone@gmail.com</a><br />
+              Phone: <a href="tel:+12256208501">+1 225 620 8501</a><br />
+              LinkedIn:
+              <a href="https://www.linkedin.com/in/madison-fields-/" target="_blank" rel="noreferrer">
+                linkedin.com/in/madison-fields-/
+              </a>
             </p>
             <p style="margin-top: 10px;">
-              I’m especially happy to hear from:
+              I’m especially glad to hear from:
             </p>
             <ul style="margin-top: 6px; padding-left: 18px;">
-              <li>Nonprofits and NGOs</li>
-              <li>Cultural and educational institutions</li>
-              <li>Social enterprises and mission-driven teams</li>
+              <li>Nonprofits, NGOs &amp; cultural institutions</li>
+              <li>SaaS &amp; B2B brands navigating AI-driven search changes</li>
+              <li>Agencies seeking senior SEO &amp; AEO support</li>
               <li>Collaborators on research-based or community projects</li>
             </ul>
           </aside>
@@ -866,8 +890,8 @@
     </main>
 
     <footer>
-      <div>© <span id="year"></span> [Your Name]. All rights reserved.</div>
-      <div>Built with care for people, not just algorithms.</div>
+      <div>© <span id="year"></span> Madison Fields. All rights reserved.</div>
+      <div>Built with care for people, search, and the next wave of answer engines.</div>
     </footer>
   </div>
 
@@ -877,4 +901,3 @@
   </script>
 </body>
 </html>
-
