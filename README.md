@@ -596,7 +596,7 @@
         <aside class="hero-aside" aria-label="Profile summary">
           <div class="profile-card">
             <div class="avatar-photo">
-              <img src="Headshot.jpeg" alt="Madison Fields smiling and holding a coffee mug" />
+              <img src="headshot.jpeg" alt="Madison Fields smiling and holding a coffee mug" />
             </div>
             <div class="profile-name">Madison Fields</div>
             <div class="profile-role">
