@@ -245,19 +245,33 @@
       pointer-events: none;
     }
 
-    .avatar-initials {
+    /* NEW: profile header with headshot + links */
+    .profile-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 14px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .avatar-wrapper {
+      flex-shrink: 0;
+    }
+
+    .avatar-photo {
       width: 72px;
       height: 72px;
       border-radius: 24px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-weight: 600;
-      font-size: 1.4rem;
-      margin-bottom: 10px;
+      object-fit: cover;
       border: 2px solid rgba(248, 250, 252, 0.8);
       box-shadow: 0 6px 16px rgba(15, 23, 42, 0.35);
-      background: linear-gradient(145deg, rgba(15, 23, 42, 0.8), rgba(55, 65, 81, 0.9));
+    }
+
+    .profile-heading-text {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
     }
 
     .profile-name {
@@ -268,7 +282,33 @@
     .profile-role {
       font-size: 0.8rem;
       color: #cbd5f5;
-      margin-bottom: 14px;
+      margin-bottom: 4px;
+    }
+
+    .profile-links {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.78rem;
+      color: #cbd5f5;
+    }
+
+    .profile-links a {
+      text-decoration: none;
+      color: #e5e7eb;
+      opacity: 0.9;
+      transition: opacity 0.15s ease, text-decoration-color 0.15s ease;
+    }
+
+    .profile-links a:hover {
+      opacity: 1;
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+    }
+
+    .profile-links-separator {
+      opacity: 0.5;
     }
 
     .profile-meta {
@@ -276,6 +316,9 @@
       gap: 10px;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       font-size: 0.8rem;
+      position: relative;
+      z-index: 1;
+      margin-top: 6px;
     }
 
     .profile-meta div {
@@ -305,6 +348,8 @@
       display: inline-flex;
       align-items: center;
       gap: 6px;
+      position: relative;
+      z-index: 1;
     }
 
     .availability-tag-dot {
@@ -539,6 +584,9 @@
       .hero-text {
         padding: 18px 16px 18px;
       }
+      .profile-header {
+        align-items: flex-start;
+      }
     }
   </style>
 </head>
@@ -594,11 +642,33 @@
 
         <aside class="hero-aside" aria-label="Profile summary">
           <div class="profile-card">
-            <div class="avatar-initials">MF</div>
-            <div class="profile-name">Madison Fields</div>
-            <div class="profile-role">
-              SEO &amp; AEO (GEO) Consultant - SEO &amp; Content Manager
+            <div class="profile-header">
+              <div class="avatar-wrapper">
+                <img
+                  src="headshot.jpg"
+                  alt="Headshot of Madison Fields"
+                  class="avatar-photo"
+                />
+              </div>
+              <div class="profile-heading-text">
+                <div class="profile-name">Madison Fields</div>
+                <div class="profile-role">
+                  SEO &amp; AEO (GEO) Consultant · SEO &amp; Content Manager
+                </div>
+                <div class="profile-links">
+                  <a href="mailto:fieldsmadisone@gmail.com">fieldsmadisone@gmail.com</a>
+                  <span class="profile-links-separator">•</span>
+                  <a
+                    href="https://www.linkedin.com/in/madison-fields-/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    LinkedIn profile
+                  </a>
+                </div>
+              </div>
             </div>
+
             <div class="profile-meta">
               <div>
                 <span class="label">Based in</span>
@@ -837,39 +907,38 @@
 
         <div class="contact">
           <div class="card">
-           <form action="https://formspree.io/f/mpwvoqbg" method="POST">
-  <div>
-    <label for="name">Name</label>
-    <input id="name" name="name" type="text" placeholder="Your name" required />
-  </div>
+            <form action="https://formspree.io/f/mpwvoqbg" method="POST">
+              <div>
+                <label for="name">Name</label>
+                <input id="name" name="name" type="text" placeholder="Your name" required />
+              </div>
 
-  <div>
-    <label for="email">Email</label>
-    <input id="email" name="email" type="email" placeholder="you@example.org" required />
-  </div>
+              <div>
+                <label for="email">Email</label>
+                <input id="email" name="email" type="email" placeholder="you@example.org" required />
+              </div>
 
-  <div>
-    <label for="org">Organization (optional)</label>
-    <input id="org" name="organization" type="text" placeholder="Organization, team, or project" />
-  </div>
+              <div>
+                <label for="org">Organization (optional)</label>
+                <input id="org" name="organization" type="text" placeholder="Organization, team, or project" />
+              </div>
 
-  <div>
-    <label for="message">How can I help</label>
-    <textarea
-      id="message"
-      name="message"
-      placeholder="Tell me about your current SEO or AEO questions, and any timelines I should know."
-      required
-    ></textarea>
-  </div>
+              <div>
+                <label for="message">How can I help</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  placeholder="Tell me about your current SEO or AEO questions, and any timelines I should know."
+                  required
+                ></textarea>
+              </div>
 
-  <!-- Sets the subject line of the email you receive -->
-  <input type="hidden" name="_subject" value="New inquiry from your portfolio site" />
+              <input type="hidden" name="_subject" value="New inquiry from your portfolio site" />
 
-  <button type="submit" class="btn-primary" style="margin-top: 6px; width: fit-content;">
-    Send message
-  </button>
-</form>
+              <button type="submit" class="btn-primary" style="margin-top: 6px; width: fit-content;">
+                Send message
+              </button>
+            </form>
           </div>
 
           <aside class="card" style="font-size: 0.85rem;">
