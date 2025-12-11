@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -574,7 +573,7 @@
           <div class="hero-highlight">
             With 5+ years in digital and content marketing, I’ve led SEO strategy across 70+ clients, from global software
             companies to local service brands—improving visibility, engagement, and revenue through data-driven, people-first
-            experiences. :contentReference[oaicite:1]{index=1}
+            experiences. 
           </div>
           <div class="hero-actions">
             <a href="#contact" class="btn-primary">
@@ -619,7 +618,7 @@
           <div class="note-card">
             I specialize in translating complex SEO and AEO signals into clear, prioritized actions for teams. My experience
             spans large client portfolios, technical audits, BOFU content, and emerging AI-driven SERP changes—always with a
-            focus on thoughtful, accessible communication. :contentReference[oaicite:3]{index=3}
+            focus on thoughtful, accessible communication. 
           </div>
         </aside>
       </section>
@@ -641,7 +640,7 @@
             <p>
               I’m an SEO &amp; AEO (GEO) Consultant and SEO &amp; Content Manager with 5+ years of experience driving organic
               growth for agencies, SaaS, and service-based brands. I’ve managed portfolios of up to 60 clients at once,
-              balancing technical optimization, strategic content, and stakeholder communication. :contentReference[oaicite:4]{index=4}
+              balancing technical optimization, strategic content, and stakeholder communication. 
             </p>
             <p>
               My academic background is in cultural anthropology, which means I’m trained to look beyond keywords and think
@@ -750,7 +749,7 @@
               Partnered with a global provider of industrial and digital transformation software to evaluate how AI
               Overviews, LLM-driven results, and changing SERPs affect core product and solution pages. Led SERP and keyword
               research, then collaborated with product and content teams to create future-proof SEO strategies for high-value
-              pages. :contentReference[oaicite:5]{index=5}
+              pages. 
             </p>
           </article>
 
@@ -761,7 +760,7 @@
               Managed a 60-client portfolio generating $90K+ in monthly revenue for a leading franchise-focused digital
               marketing company. Built and executed data-driven SEO strategies, conducted market and competitor analysis, and
               aligned organic efforts with client positioning and growth goals, with a focus on inclusive and differentiated
-              content. :contentReference[oaicite:6]{index=6}
+              content. 
             </p>
           </article>
 
@@ -771,7 +770,7 @@
             <p>
               Led SEO for a 17-client portfolio in automotive and legal verticals at a long-standing digital agency. Campaigns
               generated over $28,883 in monthly revenue by improving organic visibility, rankings, and lead generation through
-              targeted technical and content optimizations. :contentReference[oaicite:7]{index=7}
+              targeted technical and content optimizations. 
             </p>
           </article>
         </div>
